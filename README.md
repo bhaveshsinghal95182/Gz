@@ -1,4 +1,4 @@
-# Chat Application
+# ChatBot
 
 ## Overview
 
@@ -22,4 +22,5 @@ This is a simple chat application built using HTML, CSS, and JavaScript. It feat
 
 1. **Clone the repository**:
    ```bash
+   https://github.com/ZeniTsuisSimp/Gz.git
    
